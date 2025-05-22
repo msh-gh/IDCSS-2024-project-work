@@ -7,7 +7,8 @@ Embassy of India in The Hague, and the Embassy of the Kingdom of the Netherlands
 along with several partner organizations and sponsors. This school is made possible by the Dutch 
 Ministry of Foreign Affairs.
 
-The school schedule had mainly two parts.
+**The school schedule had mainly two parts.**
+
 PART 1
 --------
 In the first part of the school (October 14th until October 25th) I have attended given 20+ lectures, provided by various experts in the field and from academia. 
