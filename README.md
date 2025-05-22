@@ -33,6 +33,7 @@ Additionally, three sessions of Strategic Cyber Resilience Game were conducted .
 different phases, some asynchronous and some synchronously with the other players. We move 
 through the different phases in three game sessions. 
 
+
 PART 2
 ---------
 The practical part of the school was started From October 28th until November 8th, We were tasked with working on practical challenges, together with your fellow students.
