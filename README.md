@@ -72,3 +72,12 @@ Create a video snippet not exceeding 3 minutes briefing your presentation.
 
 Deliverables of this challenge by my team is attached in this github repo.
 
+The 7th Edition Indo-Dutch Cybersecurity School [2024] project has been structured across multiple formats
+Word document, 
+PowerPoint presentation, 
+and YouTube video
+ensuring a comprehensive and accessible approach to cybersecurity insights.
+
+Youtube link : https://youtu.be/uxRi-h3GhjA?si=SjJ3VSGxlIwxATbT.
+
+We as a Team won the First Place among other 24 Teams .
